@@ -61,4 +61,4 @@ Məsələn, const funcs = makeFunc([1, 2, 'test']);
 
 bunu yazdıqdan sonra bunu etsəm:
 
-funcs[0]() -> nəticə olaraq 1 alert olunmalıdı (və ya log-a yazılmalıdı).
+`funcs[0]()` -> nəticə olaraq 1 alert olunmalıdı (və ya log-a yazılmalıdı).
