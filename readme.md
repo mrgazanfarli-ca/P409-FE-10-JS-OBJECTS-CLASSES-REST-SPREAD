@@ -34,6 +34,23 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 
+9. Boolean
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
+
+10. Number
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+
+11. String
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
+12. Math
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+
+
 **Task**
 
 1. Ədədləri cəmləyən funksiya yazın. Ədədlər array kimi yox, ayrı-ayrı arqumentlər kimi veriləcək və sayında limit yoxdur. Məsələn: sum(1, 4, 6, 8) -> 19; sum(1, 2, 3, 4, 5, 6, 7) -> 28
